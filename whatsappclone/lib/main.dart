@@ -30,7 +30,7 @@ class MainWidget extends StatelessWidget {
             onPressed: () {},
           ),
         ],
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.black,
       ),
       body: Center(
         child: ListView(
